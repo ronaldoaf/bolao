@@ -1,7 +1,7 @@
 .login-card{
   max-width:350px;
   padding:40px 40px;
-  background-color:#F7F7F7;
+  background-color:#FFF;
   margin:0 auto 25px;
   margin-top:50px;
   border-radius:2px;
@@ -9,11 +9,10 @@
 }
 
 .login-card .profile-img-card{
-  width:160px;
-  height:140px;
+  width:150px;
+  height:190px;
   margin:0 auto 10px;
   display:block;
-  border-radius:50%;
 }
 
 .login-card .profile-name-card{
